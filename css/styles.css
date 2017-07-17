@@ -1,0 +1,45 @@
+.blue-background {
+  background-color: #00ccff;
+}
+
+.navy_blue_background {
+  background-color: #2E5CB8;
+}
+
+.green_background {
+  background-color: #008B2E;
+}
+
+.red_background {
+  background-color: #CC3300;
+}
+
+.orange_background {
+  background-color: #FF9900;
+}
+
+.grey_background {
+  background-color: #999999;
+}
+
+.margin-top {
+  margin-top: 25px;
+  margin-left: 150px;
+}
+
+.btn-custom {
+  background-color: hsl(168, 100%, 30%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00ffcc", endColorstr="#00997a");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#00ffcc), to(#00997a));
+  background-image: -moz-linear-gradient(top, #00ffcc, #00997a);
+  background-image: -ms-linear-gradient(top, #00ffcc, #00997a);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #00ffcc), color-stop(100%, #00997a));
+  background-image: -webkit-linear-gradient(top, #00ffcc, #00997a);
+  background-image: -o-linear-gradient(top, #00ffcc, #00997a);
+  background-image: linear-gradient(#00ffcc, #00997a);
+  border-color: #00997a #00997a hsl(168, 100%, 25%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.33);
+  -webkit-font-smoothing: antialiased;
+}
